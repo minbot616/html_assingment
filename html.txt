@@ -1,0 +1,12 @@
+<html>
+<head>
+</head>
+<body>
+	<h1> Today's Menu </h1>
+	<ul>
+		<li> Pizza </l1>
+		<li> Burger </l1>
+		<li> Momos </l1>
+	</ul>
+</body>
+</html>
